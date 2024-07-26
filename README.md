@@ -1,4 +1,2 @@
-# soccer_analysis
-## heading 2
-[link]()
-Analyzing goal trends
+# Discrete Structure And algorithms
+This repository contains all the coding problems related with dsa that I am doing in my University Course.
